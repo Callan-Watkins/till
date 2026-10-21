@@ -90,5 +90,6 @@ details p { margin: 10px 0 0; color: var(--muted); }
 
 @media (max-width: 560px) {
   nav a { margin-left: 14px; font-size: 15px; }
+  .button { display: block; width: 100%; text-align: center; white-space: normal; }
   .band { padding: 56px 0; }
 }
